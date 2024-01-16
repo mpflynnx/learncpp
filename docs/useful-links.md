@@ -15,6 +15,9 @@
 - [Record and Replay Framework](https://github.com/rr-debugger/rr)
 - [A dbg(…) macro for C++](https://github.com/sharkdp/dbg-macro)
 
+### Package managers
+- [vcpkg - C/C++ dependency manager from Microsoft](https://vcpkg.io/en/getting-started)
+  
 ### Other
 
 - [cplusplus.com](https://cplusplus.com/doc/tutorial/)
