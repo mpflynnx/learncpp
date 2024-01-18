@@ -3,6 +3,10 @@
 ### Learncpp.com
 - [Learncpp.com Table of Contents](https://www.learncpp.com/)
 
+### Data types
+- [How floating point numbers are stored in binary](https://float.exposed/0x3dcccccd)
+- [Floating-Point Arithmetic](https://floating-point-gui.de/)
+  
 ### Formatters
 - [ClangFormat](https://clang.llvm.org/docs/ClangFormat.html)
 
