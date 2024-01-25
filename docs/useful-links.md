@@ -6,6 +6,7 @@
 ### Data types
 - [How floating point numbers are stored in binary](https://float.exposed/0x3dcccccd)
 - [Floating-Point Arithmetic](https://floating-point-gui.de/)
+- [IEEE 754 floating-point standard](https://tfinley.net/csarch-notes/2000/floating)
   
 ### Formatters
 - [ClangFormat](https://clang.llvm.org/docs/ClangFormat.html)
