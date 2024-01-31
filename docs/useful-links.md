@@ -1,5 +1,8 @@
 ## Useful links
 
+### Compilers
+- [GCC and Clang support the flag -Wshadow that will generate warnings if a variable is shadowed.](https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html)
+
 ### Learncpp.com
 - [Learncpp.com Table of Contents](https://www.learncpp.com/)
 
