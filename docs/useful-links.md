@@ -5,6 +5,7 @@
 
 ### Learncpp.com
 - [Learncpp.com Table of Contents](https://www.learncpp.com/)
+- [7.11 — Scope, duration, and linkage summary](https://www.learncpp.com/cpp-tutorial/scope-duration-and-linkage-summary/)
 
 ### Data types
 - [How floating point numbers are stored in binary](https://float.exposed/0x3dcccccd)
