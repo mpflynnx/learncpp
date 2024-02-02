@@ -33,7 +33,7 @@
 - [Thoughts On C++ Random Number Generator Quality](https://arvid.io/2018/06/30/on-cxx-random-number-generator-quality/)
 - [Assess the performance and quality of PRNGs](https://pracrand.sourceforge.net/)
 - [Mersenne Twister Disadvantages](https://en.wikipedia.org/wiki/Mersenne_Twister#Disadvantages)
-- [xoshiro / xoroshiro generators and the non-cryptographic PRNG](https://prng.di.unimi.it/]
+- [xoshiro / xoroshiro generators and the non-cryptographic PRNG](https://prng.di.unimi.it/)
 - [wyhash and wyrand non-cryptographic PRNG](https://github.com/wangyi-fudan/wyhash)
 - [The Chacha family for cryptographic (non-predictable) PRNGs](https://cr.yp.to/chacha.html)
 
