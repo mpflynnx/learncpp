@@ -8,6 +8,7 @@
 - [7.11 — Scope, duration, and linkage summary](https://www.learncpp.com/cpp-tutorial/scope-duration-and-linkage-summary/)
 - [8.x - Control flow summary](https://www.learncpp.com/cpp-tutorial/chapter-8-summary-and-quiz/)
 - [9.x - Error Detection and Handling summary](https://www.learncpp.com/cpp-tutorial/chapter-9-summary-and-quiz/)
+- [12.x - Compound Types: References and Pointers](https://www.learncpp.com/cpp-tutorial/chapter-12-summary-and-quiz/)
 
 ### Data types
 - [How floating point numbers are stored in binary](https://float.exposed/0x3dcccccd)
